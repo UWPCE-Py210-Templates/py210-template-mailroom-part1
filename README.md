@@ -1,5 +1,7 @@
 # py210-template-mailroom-part1
 
+[Assignment Details](https://uwpce-pythoncert.github.io/ProgrammingInPython/exercises/mailroom/mailroom.html)
+
 Write your code in`mailroom.py` file. 
 
 This assignment includes automated checks:
